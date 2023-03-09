@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+.ap {
+  padding-top: 0px;
+  padding-left: 100px;
+  width: 600px;
+}
+h3 {
+  font-size: 2rem;
+}
+.skill {
+  padding-left: 100px;
+  width: 600px;
+}
+div ul li {
+  font-size: 25px;
+}
+header {
+  position: fixed;
+  z-index: 1000%;
+  width: 100%;
+}
+h2 {
+  padding-top: 7rem;
+}
+span {
+  padding-top: 5px;
+  font-size: medium;
+}
+
+.tech_skill {
+  font-family: Josefin San;
+}
+.skill_title {
+    display: flex;
+    gap: 120px;
+  }
+.skill_title1 {
+  display: flex;
+  gap: 90px;
+}
+.skill_title2 {
+    display: flex;
+    gap: 60px;
+  }
+  .skill_title3 {
+    display: flex;
+    gap: 50px;
+  }
+  .skill_title4 {
+    display: flex;
+    gap: 60px;
+  }
+  .skill_title5 {
+    display: flex;
+    gap: 90px;
+  }
+progress::-webkit-progress-bar {
+  background-color: #000;
+  width: 100%;
+}
+.bar {
+  position: relative;
+  overflow: hidden;
+  width: 30%;
+  height: 0.4375rem;
+  border-radius: 0.4375rem;
+  background-color: #b7b6b6;
+}
+.bar span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: #cf000f;
+  transition: 0.5s;
+}
+.abody
+{
+    background-image: url("");
+    background-color: #ffffff;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-bottom:10px;
+}

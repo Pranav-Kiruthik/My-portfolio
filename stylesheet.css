@@ -1,0 +1,88 @@
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;    
+}
+.bbody
+{
+    background-image: url("shrine3.jpg");
+  background-color: #ffffff;
+  height: 638px;
+  background-position: left center ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position: relative;
+}
+header
+{
+    background-color: black;
+    color: white;
+    padding: 10px; 
+    padding-bottom: 13px; 
+}
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+    
+}
+.link
+{
+    padding: 35px;
+    text-align: right;
+}
+x
+{
+    margin-right: 20px;
+}
+x:last-child
+{
+    margin-right: 10px;
+}
+a
+{
+    color: white;
+    text-decoration:none;
+}
+a:hover
+{
+    color: red;
+    font-size: 16px;
+    transition: 0.5s;
+}
+.head
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+h2
+{
+    font-size: 4rem;
+}
+m
+{
+    color: red;
+}
+p
+{
+    font-size: large;
+}
+main
+{
+    /* background-image: "./shrine.jpg" ; */
+    padding-top: 3rem;
+    /* background-color: aqua; */
+    padding-left: 8rem;
+}
+footer
+{
+    padding: 20px;
+    position: absolute;
+    bottom: 0px;
+}
+.footer
+{
+    font-size: small;
+}

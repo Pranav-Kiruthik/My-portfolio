@@ -1,0 +1,24 @@
+h3
+{
+    background-color: black;
+    color: white;
+    width: 110px;
+    padding-left: 15px;
+    height: 27px;
+    padding-top: 5px;
+    border-radius: 3px;
+    font-size: 20px;
+}
+h4
+{
+    font-size: 18px;
+}
+header {
+    position: fixed;
+    z-index: 1000%;
+    width: 100%;
+  }
+  h2
+  {
+    padding-top: 7rem;
+  }
